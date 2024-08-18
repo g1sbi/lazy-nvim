@@ -7,3 +7,5 @@ return {
     },
   },
 }
+
+--remember to run :TransparentEnable
