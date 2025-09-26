@@ -31,3 +31,5 @@ return {
     end,
   },
 }
+
+--remember to run :TransparentEnable
